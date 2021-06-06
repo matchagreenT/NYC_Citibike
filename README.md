@@ -35,6 +35,6 @@ Image above shows the tableau link of the final presentation/ proposal for inves
 
 ## Summary: 
 
-[Link to dashboard](https://public.tableau.com/shared/3KBP4HPKD?:display_count=n&:origin=viz_share_link)
+[NYC Citibike Analysis](https://public.tableau.com/shared/3KBP4HPKD?:display_count=n&:origin=viz_share_link)
 
 Due to the Covid-19 pandemic going on, as cases are reducing but variant cases are rising. It would be understandable the users would use less of the citibike from attracting germs and viruses. This would be the good time to show the public that for each starting and ending station, there will be a cleaning booth station and instructions to properly sanitize the handles and seats. This will raise awareness for the public to know that the company cares for the customers and subscribers. Possibility could be a collaboration with another sanization company to enforce that marketing campaign. This will be enough to convince the investors in putting the stake holds into the company. 
